@@ -138,6 +138,9 @@
 #>4	string		>\15		Title: "%s"
 
 0x2c	string		SCRM		ScreamTracker III Module sound data
+!:mime	audio/x-mod
+#audio/s3m
+#audio/x-s3m
 >0	string		>\0		Title: "%s"
 
 # .stm before it got above .s3m extension
